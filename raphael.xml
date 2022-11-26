@@ -5,9 +5,9 @@
 	<remote name="lineage" fetch="https://github.com/LineageOS" />
 	
 	<!-- Device trees -->
-	<project path="device/xiaomi/raphael" name="device_xiaomi_raphael" remote="penglezos" revision="lineage-20" />
-	<project path="vendor/xiaomi/raphael" name="vendor_xiaomi_raphael" remote="penglezos" revision="lineage-20" />
-	<project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="penglezos" revision="lineage-20" />
+	<project path="device/xiaomi/raphael" name="device_xiaomi_raphael" remote="penglezos" />
+	<project path="vendor/xiaomi/raphael" name="vendor_xiaomi_raphael" remote="penglezos" />
+	<project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="penglezos" />
 	
 	<!-- LineageOS extras -->
 	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" revision="lineage-20" />
