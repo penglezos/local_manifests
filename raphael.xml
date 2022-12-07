@@ -12,5 +12,4 @@
 	<!-- LineageOS extras -->
 	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" revision="lineage-20" />
 	<project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="penglezos" revision="lineage-20" />
-	<project path="lineage/scripts" name="scripts" remote="penglezos" revision="master" />
 </manifest>
