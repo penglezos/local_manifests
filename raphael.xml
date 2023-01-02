@@ -11,5 +11,5 @@
 	<project path="kernel/xiaomi/raphael" name="penglezos/kernel_xiaomi_raphael" remote="github-local" />
 	
 	<!-- LineageOS extras -->
-    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
 </manifest>
