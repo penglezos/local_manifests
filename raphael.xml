@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
 	<remote name="github-local" 
 		fetch="https://github.com/" 
 		revision="lineage-20" />
@@ -12,7 +11,4 @@
 	
 	<!-- LineageOS extras -->
 	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
-	
-	<!-- Patches -->
-	<project path="patches" name="penglezos/patches" remote="github-local" />
 </manifest>
