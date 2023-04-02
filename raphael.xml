@@ -11,4 +11,7 @@
 	
 	<!-- LineageOS extras -->
 	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
+	
+	<!-- LineageOS patches -->
+	<project path="patches" name="penglezos/patches" remote="github-local" />
 </manifest>
