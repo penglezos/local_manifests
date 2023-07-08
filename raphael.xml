@@ -13,7 +13,7 @@
 	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
 
 	<!-- LineageOS OTA -->
-	<project path="vendor/ota" name="penglezos/ota" remote="github-local" revision="master"/>
+	<project path="vendor/OTA" name="penglezos/OTA" remote="github-local" revision="master"/>
 	
 	<!-- Scripts -->
 	<project path="scripts" name="penglezos/scripts" remote="github-local" revision="master"/>
