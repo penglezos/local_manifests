@@ -11,7 +11,8 @@
 	
 	<!-- LineageOS extras -->
 	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github-local" />
-	
+	<project path="vendor/certification" name="penglezos/android_vendor_certification" remote="github-local" />
+
 	<!-- LineageOS OTA -->
 	<project path="OTA" name="penglezos/OTA" remote="github-local" revision="main"/>
 
